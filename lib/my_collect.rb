@@ -1,4 +1,5 @@
 def my_collect(array)
+  array2 = []
   i = 0
 
   while i < array.length
@@ -6,5 +7,5 @@ def my_collect(array)
     i = i + 1
   end
 
-  array
+  array2
 end
